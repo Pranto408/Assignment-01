@@ -28,6 +28,9 @@
     background-color: #0c561e;
     transition: .5s;
 }
+.btn img{
+    vertical-align: middle;
+}
 /* Common classes End */
 #navbar{
     display: flex;
@@ -250,4 +253,14 @@
 .icon-s{
     color: #ffffff;
     text-decoration: none;
+}
+#icon-x{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 50%;
+    font-size: 14px;
+}
+#icon-in{
+    border-radius: 50%;
+    padding: 5px;
 }
