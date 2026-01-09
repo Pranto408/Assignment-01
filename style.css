@@ -223,3 +223,31 @@
     color: #627382;
 
 }
+#footer{
+    background:  rgba(0, 25, 49, 1);
+}
+#footer-container{
+    padding-top: 120px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+
+}
+.footer-text-icon{
+    color: #ffffff;
+}
+.footer-text-icon p{
+    margin-bottom: 10px;
+}
+.copyright{
+    color: #ffffff;
+    text-align: center;
+    border-top: 1px solid #70767b50;
+    padding: 30px 0;
+}
+.icon-s{
+    color: #ffffff;
+    text-decoration: none;
+}
