@@ -196,3 +196,30 @@
 .img-content ul li img{
     vertical-align: middle;
 }
+#early-access{
+    margin-bottom: 120px;
+}
+
+#early-access-container{
+    background-color: #F7F6F2;
+    border-radius: 12px;
+    text-align: center;
+    padding: 80px 40px;
+}
+#early-access-container h2{
+    margin-bottom: 16px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+}
+#early-access-container .pra1{
+    margin-bottom: 24px;
+    color: #627382;
+    font-size: 16px;
+}
+#early-access-container .pra2{
+    margin-top: 16px;
+    font-size: 16px;
+    color: #627382;
+
+}
